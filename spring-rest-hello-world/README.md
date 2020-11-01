@@ -3,7 +3,7 @@
 
 ## 1. How to start
 ```
-$ git clone https://github.com/skp/spring-boot.git
+$ git clone https://github.com/sumantpandey/SpringbootExamples.git
 $ cd spring-rest-hello-world
 $ mvn spring-boot:run
 
