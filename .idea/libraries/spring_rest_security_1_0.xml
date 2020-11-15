@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-rest-security-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-rest-security/target/spring-rest-security-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
